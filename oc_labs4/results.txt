@@ -1,0 +1,8 @@
+Алгоритм: Round Robin
+ID	Arr	Burst	Start	Finish	Turn	Wait
+1	1	2	-1	0	0	0
+2	3	4	-1	0	0	0
+3	5	4	-1	0	0	0
+
+Средние значения:
+T=0	M=-3.33333	R=inf	P=0
